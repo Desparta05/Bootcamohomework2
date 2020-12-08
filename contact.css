@@ -1,0 +1,16 @@
+#left {
+    float: left;
+    width: min-content;;
+    color: rgb(10, 10, 10);
+    background: #f5f7f6;
+    height: 200px;
+    padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
