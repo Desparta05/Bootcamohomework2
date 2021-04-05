@@ -1,14 +1,14 @@
-#left {
-    float: left;
-    width: min-content;;
-    color: rgb(10, 10, 10);
-    background: #f5f7f6;
-    height: 200px;
-    padding: 20px;
+#resImage {
+    font-size: small;
+    color: rgb(255, 255, 255);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
