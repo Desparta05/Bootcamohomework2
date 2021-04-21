@@ -1,8 +1,10 @@
 
 #head{
     color: whitesmoke;
-    margin-top: 6px;
-    margin-left: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
 }
 
 input[type=text], select, textarea {
@@ -36,18 +38,15 @@ button[type=submit]:hover {
     padding: 20px;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+.footer{
+    padding-top: 10rem;
+    color: whitesmoke;
     text-align: center;
-    color: rgb(255, 255, 255);
 }
 
 body{
     background-image: url("https://images.unsplash.com/photo-1517167685284-96a27681ad75?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80");
-    background-size: 2547px 1777px;
     background-color: black;
-    background-repeat: no-repeat;
+    font-family: 'Libre Baskerville', serif;
+
 }
