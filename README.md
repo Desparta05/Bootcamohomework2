@@ -15,13 +15,13 @@ This Portfolio I've created is to showcase what I've learned during the Rice Uni
 
 ## Screenshots
 ### Index Page
-![](assets\Images\aboutscreen.PNG)
+![Home Page](./assets/Images/aboutscreen.PNG)
 ### Portfolio page
-![](assets\Images\portscreen.PNG)
+![Portfolio page](./assets/Images/portscreen.PNG)
 ### Contact Page
-![](assets\Images\contscreen.PNG)
+![Contact Page](./assets/Images/contscreen.PNG)
 ### Resume Page
-![](assets\Images\resscreen.PNG)
+![Resume Page](./assets/Images/resscreen.PNG)
 
 ## Objectives of This Project
 
